@@ -16,56 +16,16 @@ and I was an **AI Development Intern at MyRank** (AdaptIQ).
 
 ### Featured work
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<p align="center">
+  <img src="assets/card-insurance.svg" width="49%" alt="Motor-Insurance Survey Suite: freelance product line for 3 survey firms with cloud, offline desktop and Android editions (private client work)">
+  <a href="https://github.com/NamanSingh69/aethertwin-lab"><img src="assets/card-aethertwin.svg" width="49%" alt="AetherTwin: LiDAR/RGB-D digital twin of the KIIT IoT Lab; mapping, tracking, path planning; 350+ tests; 59 FPS with 100K objects"></a>
+  <img src="assets/card-ai-cloud.svg" width="49%" alt="Distributed AI Cloud (design phase): zero-API-cost agent cloud on 12 GPU workstations and 3 Jetsons">
+  <a href="https://sp.myranktech.com"><img src="assets/card-adaptiq.svg" width="49%" alt="AdaptIQ at MyRank: adaptive JEE/NEET study planner with a 5-agent Gemini backend and 9 planning rules in code; 367 tests"></a>
+  <a href="https://github.com/NamanSingh69/Gemini-Jailbreak"><img src="assets/card-redteam.svg" width="49%" alt="LLM Red-Teaming Lab: jailbreak challenge bot for testing Gemini guardrails; 18 stars"></a>
+  <a href="https://github.com/NamanSingh69/Deep-Research"><img src="assets/card-deep-research.svg" width="49%" alt="Deep Research: async research agent with recursive search, cached sources and a streamed cited report"></a>
+</p>
 
-**[AetherTwin](https://github.com/NamanSingh69/aethertwin-lab)**: LiDAR/RGB-D digital twin of the KIIT IoT Lab.
-3D mapping, object tracking and collision-checked path planning; 350+ tests.
-<br><sub>Python · PyTorch · Open3D · Three.js</sub>
-
-</td>
-<td width="50%" valign="top">
-
-**[Gemini-Jailbreak](https://github.com/NamanSingh69/Gemini-Jailbreak)**: LLM red-teaming lab.
-A jailbreak challenge bot for the IoT Lab's cybersecurity event.
-<br><sub>React · TypeScript · Gemini</sub>
-
-</td>
-</tr>
-<tr>
-<td valign="top">
-
-**[Deep-Research](https://github.com/NamanSingh69/Deep-Research)**: async research agent.
-Recursive search with a SQLite cache, streaming a cited report as it works.
-<br><sub>FastAPI · asyncio · Gemini</sub>
-
-</td>
-<td valign="top">
-
-**[Auto-MOM](https://github.com/NamanSingh69/Auto-MOM)**: agentic meeting assistant.
-Joins a Google Meet, records it and drafts the minutes and follow-up mail.
-<br><sub>TypeScript · Gemini</sub>
-
-</td>
-</tr>
-<tr>
-<td valign="top">
-
-**[Question-Paper-Generator](https://github.com/NamanSingh69/Question-Paper-Generator)**: exam papers from course material.
-Topic analysis, mixed question types, PDF/HTML/Markdown export.
-<br><sub>Flask · Gemini · Playwright</sub>
-
-</td>
-<td valign="top">
-
-**[Resume-Scanner](https://github.com/NamanSingh69/Resume-Scanner)** · [live](https://resume-scanner-ats.vercel.app): ATS-style resume scorer.
-Keyword and section feedback against a job description.
-<br><sub>Python · spaCy · Docker</sub>
-
-</td>
-</tr>
-</table>
+<sub>More on GitHub: <a href="https://github.com/NamanSingh69/Auto-MOM">Auto-MOM</a> (agentic meeting assistant) · <a href="https://github.com/NamanSingh69/Question-Paper-Generator">Question-Paper-Generator</a> · <a href="https://github.com/NamanSingh69/Resume-Scanner">Resume-Scanner</a></sub>
 
 <!-- Add kiit-cse-notes here once it is public and has its first release. -->
 

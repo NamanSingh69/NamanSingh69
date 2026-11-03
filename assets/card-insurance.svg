@@ -1,0 +1,75 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 220" width="560" height="220" role="img" aria-label="Motor-Insurance Survey Suite: Freelance product line for 3 survey firms: cloud, offline desktop and Android editions.">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0b1020"/><stop offset="1" stop-color="#131d36"/></linearGradient>
+  <radialGradient id="glow" cx="0.85" cy="0.25" r="0.6"><stop offset="0" stop-color="#38bdf8" stop-opacity="0.20"/><stop offset="1" stop-color="#38bdf8" stop-opacity="0"/></radialGradient>
+  <linearGradient id="scan" x1="0" x2="1"><stop offset="0" stop-color="#38bdf8" stop-opacity="0"/><stop offset="0.85" stop-color="#38bdf8" stop-opacity="0.28"/><stop offset="1" stop-color="#38bdf8" stop-opacity="0"/></linearGradient>
+</defs>
+<style>
+  .t { font: 700 26px 'Segoe UI', -apple-system, Helvetica, Arial, sans-serif; fill: #f8fafc; }
+  .d { font: 500 16px 'Segoe UI', -apple-system, Helvetica, Arial, sans-serif; fill: #b4c2db; }
+  .k { font: 600 13px 'Segoe UI', -apple-system, Helvetica, Arial, sans-serif; fill: #38bdf8; letter-spacing: .3px; }
+  .p { font: 600 12.5px 'Segoe UI', -apple-system, Helvetica, Arial, sans-serif; fill: #0b1020; }
+  .node { animation: pulse 3s ease-in-out infinite; transform-box: fill-box; transform-origin: center; }
+  @keyframes pulse { 0%,100% {opacity:.55; transform:scale(1)} 50% {opacity:1; transform:scale(1.6)} }
+  @media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
+</style>
+<rect width="560" height="220" rx="16" fill="url(#bg)" stroke="#22304d"/>
+<rect width="560" height="220" rx="16" fill="url(#glow)"/>
+<g class="net">
+<line x1="421.5" y1="165.2" x2="469.1" y2="191.5" stroke="#38bdf8" stroke-opacity="0.22" stroke-width="1"/>
+<line x1="421.5" y1="165.2" x2="437.3" y2="165.2" stroke="#38bdf8" stroke-opacity="0.22" stroke-width="1"/>
+<line x1="421.5" y1="165.2" x2="449.0" y2="194.8" stroke="#38bdf8" stroke-opacity="0.22" stroke-width="1"/>
+<line x1="421.5" y1="165.2" x2="438.4" y2="194.1" stroke="#38bdf8" stroke-opacity="0.22" stroke-width="1"/>
+<line x1="421.5" y1="165.2" x2="487.0" y2="180.6" stroke="#38bdf8" stroke-opacity="0.22" stroke-width="1"/>
+<line x1="421.5" y1="165.2" x2="471.6" y2="205.8" stroke="#38bdf8" stroke-opacity="0.22" stroke-width="1"/>
+<line x1="469.1" y1="191.5" x2="437.3" y2="165.2" stroke="#38bdf8" stroke-opacity="0.22" stroke-width="1"/>
+<line x1="469.1" y1="191.5" x2="449.0" y2="194.8" stroke="#38bdf8" stroke-opacity="0.22" stroke-width="1"/>
+<line x1="469.1" y1="191.5" x2="438.4" y2="194.1" stroke="#38bdf8" stroke-opacity="0.22" stroke-width="1"/>
+<line x1="469.1" y1="191.5" x2="502.8" y2="166.3" stroke="#38bdf8" stroke-opacity="0.22" stroke-width="1"/>
+<line x1="469.1" y1="191.5" x2="487.0" y2="180.6" stroke="#38bdf8" stroke-opacity="0.22" stroke-width="1"/>
+<line x1="469.1" y1="191.5" x2="471.6" y2="205.8" stroke="#38bdf8" stroke-opacity="0.22" stroke-width="1"/>
+<line x1="437.3" y1="165.2" x2="449.0" y2="194.8" stroke="#38bdf8" stroke-opacity="0.22" stroke-width="1"/>
+<line x1="437.3" y1="165.2" x2="438.4" y2="194.1" stroke="#38bdf8" stroke-opacity="0.22" stroke-width="1"/>
+<line x1="437.3" y1="165.2" x2="502.8" y2="166.3" stroke="#38bdf8" stroke-opacity="0.22" stroke-width="1"/>
+<line x1="437.3" y1="165.2" x2="487.0" y2="180.6" stroke="#38bdf8" stroke-opacity="0.22" stroke-width="1"/>
+<line x1="437.3" y1="165.2" x2="471.6" y2="205.8" stroke="#38bdf8" stroke-opacity="0.22" stroke-width="1"/>
+<line x1="449.0" y1="194.8" x2="438.4" y2="194.1" stroke="#38bdf8" stroke-opacity="0.22" stroke-width="1"/>
+<line x1="449.0" y1="194.8" x2="502.8" y2="166.3" stroke="#38bdf8" stroke-opacity="0.22" stroke-width="1"/>
+<line x1="449.0" y1="194.8" x2="487.0" y2="180.6" stroke="#38bdf8" stroke-opacity="0.22" stroke-width="1"/>
+<line x1="449.0" y1="194.8" x2="471.6" y2="205.8" stroke="#38bdf8" stroke-opacity="0.22" stroke-width="1"/>
+<line x1="438.4" y1="194.1" x2="502.8" y2="166.3" stroke="#38bdf8" stroke-opacity="0.22" stroke-width="1"/>
+<line x1="438.4" y1="194.1" x2="487.0" y2="180.6" stroke="#38bdf8" stroke-opacity="0.22" stroke-width="1"/>
+<line x1="438.4" y1="194.1" x2="471.6" y2="205.8" stroke="#38bdf8" stroke-opacity="0.22" stroke-width="1"/>
+<line x1="502.8" y1="166.3" x2="487.0" y2="180.6" stroke="#38bdf8" stroke-opacity="0.22" stroke-width="1"/>
+<line x1="502.8" y1="166.3" x2="471.6" y2="205.8" stroke="#38bdf8" stroke-opacity="0.22" stroke-width="1"/>
+<line x1="487.0" y1="180.6" x2="471.6" y2="205.8" stroke="#38bdf8" stroke-opacity="0.22" stroke-width="1"/>
+<circle r="2.2" fill="#38bdf8"><animateMotion dur="2.6s" begin="0.1s" repeatCount="indefinite" path="M421.5,165.2 L469.1,191.5"/></circle>
+<circle r="2.2" fill="#38bdf8"><animateMotion dur="4.7s" begin="1.2s" repeatCount="indefinite" path="M421.5,165.2 L449.0,194.8"/></circle>
+<circle r="2.2" fill="#38bdf8"><animateMotion dur="2.9s" begin="1.0s" repeatCount="indefinite" path="M421.5,165.2 L487.0,180.6"/></circle>
+<circle r="2.2" fill="#38bdf8"><animateMotion dur="3.3s" begin="2.9s" repeatCount="indefinite" path="M469.1,191.5 L437.3,165.2"/></circle>
+<circle r="2.2" fill="#38bdf8"><animateMotion dur="2.9s" begin="0.7s" repeatCount="indefinite" path="M469.1,191.5 L438.4,194.1"/></circle>
+<circle r="2.2" fill="#38bdf8"><animateMotion dur="3.8s" begin="1.6s" repeatCount="indefinite" path="M469.1,191.5 L487.0,180.6"/></circle>
+<circle r="2.2" fill="#38bdf8"><animateMotion dur="4.7s" begin="2.5s" repeatCount="indefinite" path="M437.3,165.2 L449.0,194.8"/></circle>
+<circle r="2.2" fill="#38bdf8"><animateMotion dur="3.3s" begin="0.6s" repeatCount="indefinite" path="M437.3,165.2 L502.8,166.3"/></circle>
+<circle r="2.2" fill="#38bdf8"><animateMotion dur="4.4s" begin="3.0s" repeatCount="indefinite" path="M437.3,165.2 L471.6,205.8"/></circle>
+<circle r="2.2" fill="#38bdf8"><animateMotion dur="2.5s" begin="2.2s" repeatCount="indefinite" path="M449.0,194.8 L502.8,166.3"/></circle>
+<circle r="2.2" fill="#38bdf8"><animateMotion dur="4.5s" begin="2.0s" repeatCount="indefinite" path="M449.0,194.8 L471.6,205.8"/></circle>
+<circle r="2.2" fill="#38bdf8"><animateMotion dur="2.9s" begin="2.4s" repeatCount="indefinite" path="M438.4,194.1 L487.0,180.6"/></circle>
+<circle r="2.2" fill="#38bdf8"><animateMotion dur="4.2s" begin="0.6s" repeatCount="indefinite" path="M502.8,166.3 L487.0,180.6"/></circle>
+<circle r="2.2" fill="#38bdf8"><animateMotion dur="3.9s" begin="0.7s" repeatCount="indefinite" path="M487.0,180.6 L471.6,205.8"/></circle>
+<circle class="node" cx="421.5" cy="165.2" r="2.6" fill="#38bdf8" style="animation-delay:1.01s"/>
+<circle class="node" cx="469.1" cy="191.5" r="3.2" fill="#38bdf8" style="animation-delay:1.19s"/>
+<circle class="node" cx="437.3" cy="165.2" r="3.8" fill="#38bdf8" style="animation-delay:2.51s"/>
+<circle class="node" cx="449.0" cy="194.8" r="4.4" fill="#38bdf8" style="animation-delay:2.93s"/>
+<circle class="node" cx="438.4" cy="194.1" r="4.5" fill="#38bdf8" style="animation-delay:2.37s"/>
+<circle class="node" cx="502.8" cy="166.3" r="3.1" fill="#38bdf8" style="animation-delay:0.53s"/>
+<circle class="node" cx="487.0" cy="180.6" r="3.7" fill="#38bdf8" style="animation-delay:1.64s"/>
+<circle class="node" cx="471.6" cy="205.8" r="3.8" fill="#38bdf8" style="animation-delay:0.28s"/>
+</g>
+<rect x="0" y="22" width="5" height="40" rx="2.5" fill="#38bdf8"/>
+<text class="t" x="28" y="52">Motor-Insurance Survey Suite</text>
+<rect x="28" y="66" width="158" height="22" rx="11" fill="#38bdf8"/>
+<text class="p" x="35" y="81.5">Private client work</text>
+<text class="d" x="28" y="124">Freelance product line for 3 survey firms: cloud,</text><text class="d" x="28" y="148">offline desktop and Android editions.</text>
+<text class="k" x="28" y="198">Flask · PostgreSQL · Redis · Gemini</text>
+</svg>

@@ -1,0 +1,75 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 220" width="560" height="220" role="img" aria-label="Deep Research: Async agent: recursive search, cached sources, and a cited report streamed as it works.">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0b1020"/><stop offset="1" stop-color="#131d36"/></linearGradient>
+  <radialGradient id="glow" cx="0.85" cy="0.25" r="0.6"><stop offset="0" stop-color="#4ade80" stop-opacity="0.20"/><stop offset="1" stop-color="#4ade80" stop-opacity="0"/></radialGradient>
+  <linearGradient id="scan" x1="0" x2="1"><stop offset="0" stop-color="#4ade80" stop-opacity="0"/><stop offset="0.85" stop-color="#4ade80" stop-opacity="0.28"/><stop offset="1" stop-color="#4ade80" stop-opacity="0"/></linearGradient>
+</defs>
+<style>
+  .t { font: 700 26px 'Segoe UI', -apple-system, Helvetica, Arial, sans-serif; fill: #f8fafc; }
+  .d { font: 500 16px 'Segoe UI', -apple-system, Helvetica, Arial, sans-serif; fill: #b4c2db; }
+  .k { font: 600 13px 'Segoe UI', -apple-system, Helvetica, Arial, sans-serif; fill: #4ade80; letter-spacing: .3px; }
+  .p { font: 600 12.5px 'Segoe UI', -apple-system, Helvetica, Arial, sans-serif; fill: #0b1020; }
+  .node { animation: pulse 3s ease-in-out infinite; transform-box: fill-box; transform-origin: center; }
+  @keyframes pulse { 0%,100% {opacity:.55; transform:scale(1)} 50% {opacity:1; transform:scale(1.6)} }
+  @media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
+</style>
+<rect width="560" height="220" rx="16" fill="url(#bg)" stroke="#22304d"/>
+<rect width="560" height="220" rx="16" fill="url(#glow)"/>
+<g class="net">
+<line x1="483.2" y1="180.9" x2="489.7" y2="177.7" stroke="#4ade80" stroke-opacity="0.22" stroke-width="1"/>
+<line x1="483.2" y1="180.9" x2="524.3" y2="167.3" stroke="#4ade80" stroke-opacity="0.22" stroke-width="1"/>
+<line x1="483.2" y1="180.9" x2="476.3" y2="195.1" stroke="#4ade80" stroke-opacity="0.22" stroke-width="1"/>
+<line x1="483.2" y1="180.9" x2="495.8" y2="201.7" stroke="#4ade80" stroke-opacity="0.22" stroke-width="1"/>
+<line x1="483.2" y1="180.9" x2="456.1" y2="176.5" stroke="#4ade80" stroke-opacity="0.22" stroke-width="1"/>
+<line x1="483.2" y1="180.9" x2="458.1" y2="166.1" stroke="#4ade80" stroke-opacity="0.22" stroke-width="1"/>
+<line x1="483.2" y1="180.9" x2="429.4" y2="183.6" stroke="#4ade80" stroke-opacity="0.22" stroke-width="1"/>
+<line x1="489.7" y1="177.7" x2="524.3" y2="167.3" stroke="#4ade80" stroke-opacity="0.22" stroke-width="1"/>
+<line x1="489.7" y1="177.7" x2="476.3" y2="195.1" stroke="#4ade80" stroke-opacity="0.22" stroke-width="1"/>
+<line x1="489.7" y1="177.7" x2="495.8" y2="201.7" stroke="#4ade80" stroke-opacity="0.22" stroke-width="1"/>
+<line x1="489.7" y1="177.7" x2="456.1" y2="176.5" stroke="#4ade80" stroke-opacity="0.22" stroke-width="1"/>
+<line x1="489.7" y1="177.7" x2="458.1" y2="166.1" stroke="#4ade80" stroke-opacity="0.22" stroke-width="1"/>
+<line x1="489.7" y1="177.7" x2="429.4" y2="183.6" stroke="#4ade80" stroke-opacity="0.22" stroke-width="1"/>
+<line x1="524.3" y1="167.3" x2="476.3" y2="195.1" stroke="#4ade80" stroke-opacity="0.22" stroke-width="1"/>
+<line x1="524.3" y1="167.3" x2="495.8" y2="201.7" stroke="#4ade80" stroke-opacity="0.22" stroke-width="1"/>
+<line x1="524.3" y1="167.3" x2="456.1" y2="176.5" stroke="#4ade80" stroke-opacity="0.22" stroke-width="1"/>
+<line x1="524.3" y1="167.3" x2="458.1" y2="166.1" stroke="#4ade80" stroke-opacity="0.22" stroke-width="1"/>
+<line x1="476.3" y1="195.1" x2="495.8" y2="201.7" stroke="#4ade80" stroke-opacity="0.22" stroke-width="1"/>
+<line x1="476.3" y1="195.1" x2="456.1" y2="176.5" stroke="#4ade80" stroke-opacity="0.22" stroke-width="1"/>
+<line x1="476.3" y1="195.1" x2="458.1" y2="166.1" stroke="#4ade80" stroke-opacity="0.22" stroke-width="1"/>
+<line x1="476.3" y1="195.1" x2="429.4" y2="183.6" stroke="#4ade80" stroke-opacity="0.22" stroke-width="1"/>
+<line x1="495.8" y1="201.7" x2="456.1" y2="176.5" stroke="#4ade80" stroke-opacity="0.22" stroke-width="1"/>
+<line x1="495.8" y1="201.7" x2="458.1" y2="166.1" stroke="#4ade80" stroke-opacity="0.22" stroke-width="1"/>
+<line x1="495.8" y1="201.7" x2="429.4" y2="183.6" stroke="#4ade80" stroke-opacity="0.22" stroke-width="1"/>
+<line x1="456.1" y1="176.5" x2="458.1" y2="166.1" stroke="#4ade80" stroke-opacity="0.22" stroke-width="1"/>
+<line x1="456.1" y1="176.5" x2="429.4" y2="183.6" stroke="#4ade80" stroke-opacity="0.22" stroke-width="1"/>
+<line x1="458.1" y1="166.1" x2="429.4" y2="183.6" stroke="#4ade80" stroke-opacity="0.22" stroke-width="1"/>
+<circle r="2.2" fill="#4ade80"><animateMotion dur="3.1s" begin="1.7s" repeatCount="indefinite" path="M483.2,180.9 L489.7,177.7"/></circle>
+<circle r="2.2" fill="#4ade80"><animateMotion dur="4.7s" begin="3.0s" repeatCount="indefinite" path="M483.2,180.9 L476.3,195.1"/></circle>
+<circle r="2.2" fill="#4ade80"><animateMotion dur="4.3s" begin="1.0s" repeatCount="indefinite" path="M483.2,180.9 L456.1,176.5"/></circle>
+<circle r="2.2" fill="#4ade80"><animateMotion dur="3.3s" begin="2.7s" repeatCount="indefinite" path="M483.2,180.9 L429.4,183.6"/></circle>
+<circle r="2.2" fill="#4ade80"><animateMotion dur="3.0s" begin="2.5s" repeatCount="indefinite" path="M489.7,177.7 L476.3,195.1"/></circle>
+<circle r="2.2" fill="#4ade80"><animateMotion dur="3.0s" begin="1.3s" repeatCount="indefinite" path="M489.7,177.7 L456.1,176.5"/></circle>
+<circle r="2.2" fill="#4ade80"><animateMotion dur="3.7s" begin="2.9s" repeatCount="indefinite" path="M489.7,177.7 L429.4,183.6"/></circle>
+<circle r="2.2" fill="#4ade80"><animateMotion dur="4.2s" begin="2.5s" repeatCount="indefinite" path="M524.3,167.3 L495.8,201.7"/></circle>
+<circle r="2.2" fill="#4ade80"><animateMotion dur="3.2s" begin="1.0s" repeatCount="indefinite" path="M524.3,167.3 L458.1,166.1"/></circle>
+<circle r="2.2" fill="#4ade80"><animateMotion dur="4.5s" begin="1.8s" repeatCount="indefinite" path="M476.3,195.1 L456.1,176.5"/></circle>
+<circle r="2.2" fill="#4ade80"><animateMotion dur="4.1s" begin="0.3s" repeatCount="indefinite" path="M476.3,195.1 L429.4,183.6"/></circle>
+<circle r="2.2" fill="#4ade80"><animateMotion dur="2.5s" begin="1.3s" repeatCount="indefinite" path="M495.8,201.7 L458.1,166.1"/></circle>
+<circle r="2.2" fill="#4ade80"><animateMotion dur="3.1s" begin="0.8s" repeatCount="indefinite" path="M456.1,176.5 L458.1,166.1"/></circle>
+<circle r="2.2" fill="#4ade80"><animateMotion dur="4.4s" begin="2.8s" repeatCount="indefinite" path="M458.1,166.1 L429.4,183.6"/></circle>
+<circle class="node" cx="483.2" cy="180.9" r="2.9" fill="#4ade80" style="animation-delay:0.30s"/>
+<circle class="node" cx="489.7" cy="177.7" r="2.9" fill="#4ade80" style="animation-delay:0.55s"/>
+<circle class="node" cx="524.3" cy="167.3" r="3.9" fill="#4ade80" style="animation-delay:1.15s"/>
+<circle class="node" cx="476.3" cy="195.1" r="4.5" fill="#4ade80" style="animation-delay:0.06s"/>
+<circle class="node" cx="495.8" cy="201.7" r="3.6" fill="#4ade80" style="animation-delay:0.40s"/>
+<circle class="node" cx="456.1" cy="176.5" r="4.2" fill="#4ade80" style="animation-delay:1.14s"/>
+<circle class="node" cx="458.1" cy="166.1" r="3.0" fill="#4ade80" style="animation-delay:1.75s"/>
+<circle class="node" cx="429.4" cy="183.6" r="4.2" fill="#4ade80" style="animation-delay:0.05s"/>
+</g>
+<rect x="0" y="22" width="5" height="40" rx="2.5" fill="#4ade80"/>
+<text class="t" x="28" y="52">Deep Research</text>
+<rect x="28" y="66" width="98" height="22" rx="11" fill="#4ade80"/>
+<text class="p" x="35" y="81.5">Open source</text>
+<text class="d" x="28" y="124">Async agent: recursive search, cached sources,</text><text class="d" x="28" y="148">and a cited report streamed as it works.</text>
+<text class="k" x="28" y="198">FastAPI · asyncio · SQLite · Gemini</text>
+</svg>

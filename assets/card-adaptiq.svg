@@ -1,0 +1,73 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 220" width="560" height="220" role="img" aria-label="AdaptIQ · MyRank: Adaptive JEE/NEET study planner: a 5-agent Gemini backend with 9 planning rules in code.">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0b1020"/><stop offset="1" stop-color="#131d36"/></linearGradient>
+  <radialGradient id="glow" cx="0.85" cy="0.25" r="0.6"><stop offset="0" stop-color="#f59e0b" stop-opacity="0.20"/><stop offset="1" stop-color="#f59e0b" stop-opacity="0"/></radialGradient>
+  <linearGradient id="scan" x1="0" x2="1"><stop offset="0" stop-color="#f59e0b" stop-opacity="0"/><stop offset="0.85" stop-color="#f59e0b" stop-opacity="0.28"/><stop offset="1" stop-color="#f59e0b" stop-opacity="0"/></linearGradient>
+</defs>
+<style>
+  .t { font: 700 26px 'Segoe UI', -apple-system, Helvetica, Arial, sans-serif; fill: #f8fafc; }
+  .d { font: 500 16px 'Segoe UI', -apple-system, Helvetica, Arial, sans-serif; fill: #b4c2db; }
+  .k { font: 600 13px 'Segoe UI', -apple-system, Helvetica, Arial, sans-serif; fill: #f59e0b; letter-spacing: .3px; }
+  .p { font: 600 12.5px 'Segoe UI', -apple-system, Helvetica, Arial, sans-serif; fill: #0b1020; }
+  .node { animation: pulse 3s ease-in-out infinite; transform-box: fill-box; transform-origin: center; }
+  @keyframes pulse { 0%,100% {opacity:.55; transform:scale(1)} 50% {opacity:1; transform:scale(1.6)} }
+  @media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
+</style>
+<rect width="560" height="220" rx="16" fill="url(#bg)" stroke="#22304d"/>
+<rect width="560" height="220" rx="16" fill="url(#glow)"/>
+<g class="net">
+<line x1="481.8" y1="185.6" x2="521.2" y2="174.7" stroke="#f59e0b" stroke-opacity="0.22" stroke-width="1"/>
+<line x1="481.8" y1="185.6" x2="460.1" y2="191.9" stroke="#f59e0b" stroke-opacity="0.22" stroke-width="1"/>
+<line x1="481.8" y1="185.6" x2="480.8" y2="176.5" stroke="#f59e0b" stroke-opacity="0.22" stroke-width="1"/>
+<line x1="481.8" y1="185.6" x2="470.7" y2="175.2" stroke="#f59e0b" stroke-opacity="0.22" stroke-width="1"/>
+<line x1="481.8" y1="185.6" x2="440.9" y2="189.1" stroke="#f59e0b" stroke-opacity="0.22" stroke-width="1"/>
+<line x1="481.8" y1="185.6" x2="531.7" y2="191.7" stroke="#f59e0b" stroke-opacity="0.22" stroke-width="1"/>
+<line x1="481.8" y1="185.6" x2="499.3" y2="175.5" stroke="#f59e0b" stroke-opacity="0.22" stroke-width="1"/>
+<line x1="521.2" y1="174.7" x2="460.1" y2="191.9" stroke="#f59e0b" stroke-opacity="0.22" stroke-width="1"/>
+<line x1="521.2" y1="174.7" x2="480.8" y2="176.5" stroke="#f59e0b" stroke-opacity="0.22" stroke-width="1"/>
+<line x1="521.2" y1="174.7" x2="470.7" y2="175.2" stroke="#f59e0b" stroke-opacity="0.22" stroke-width="1"/>
+<line x1="521.2" y1="174.7" x2="531.7" y2="191.7" stroke="#f59e0b" stroke-opacity="0.22" stroke-width="1"/>
+<line x1="521.2" y1="174.7" x2="499.3" y2="175.5" stroke="#f59e0b" stroke-opacity="0.22" stroke-width="1"/>
+<line x1="460.1" y1="191.9" x2="480.8" y2="176.5" stroke="#f59e0b" stroke-opacity="0.22" stroke-width="1"/>
+<line x1="460.1" y1="191.9" x2="470.7" y2="175.2" stroke="#f59e0b" stroke-opacity="0.22" stroke-width="1"/>
+<line x1="460.1" y1="191.9" x2="440.9" y2="189.1" stroke="#f59e0b" stroke-opacity="0.22" stroke-width="1"/>
+<line x1="460.1" y1="191.9" x2="531.7" y2="191.7" stroke="#f59e0b" stroke-opacity="0.22" stroke-width="1"/>
+<line x1="460.1" y1="191.9" x2="499.3" y2="175.5" stroke="#f59e0b" stroke-opacity="0.22" stroke-width="1"/>
+<line x1="480.8" y1="176.5" x2="470.7" y2="175.2" stroke="#f59e0b" stroke-opacity="0.22" stroke-width="1"/>
+<line x1="480.8" y1="176.5" x2="440.9" y2="189.1" stroke="#f59e0b" stroke-opacity="0.22" stroke-width="1"/>
+<line x1="480.8" y1="176.5" x2="531.7" y2="191.7" stroke="#f59e0b" stroke-opacity="0.22" stroke-width="1"/>
+<line x1="480.8" y1="176.5" x2="499.3" y2="175.5" stroke="#f59e0b" stroke-opacity="0.22" stroke-width="1"/>
+<line x1="470.7" y1="175.2" x2="440.9" y2="189.1" stroke="#f59e0b" stroke-opacity="0.22" stroke-width="1"/>
+<line x1="470.7" y1="175.2" x2="531.7" y2="191.7" stroke="#f59e0b" stroke-opacity="0.22" stroke-width="1"/>
+<line x1="470.7" y1="175.2" x2="499.3" y2="175.5" stroke="#f59e0b" stroke-opacity="0.22" stroke-width="1"/>
+<line x1="440.9" y1="189.1" x2="499.3" y2="175.5" stroke="#f59e0b" stroke-opacity="0.22" stroke-width="1"/>
+<line x1="531.7" y1="191.7" x2="499.3" y2="175.5" stroke="#f59e0b" stroke-opacity="0.22" stroke-width="1"/>
+<circle r="2.2" fill="#f59e0b"><animateMotion dur="3.4s" begin="0.4s" repeatCount="indefinite" path="M481.8,185.6 L521.2,174.7"/></circle>
+<circle r="2.2" fill="#f59e0b"><animateMotion dur="4.1s" begin="0.9s" repeatCount="indefinite" path="M481.8,185.6 L480.8,176.5"/></circle>
+<circle r="2.2" fill="#f59e0b"><animateMotion dur="3.1s" begin="2.9s" repeatCount="indefinite" path="M481.8,185.6 L440.9,189.1"/></circle>
+<circle r="2.2" fill="#f59e0b"><animateMotion dur="3.2s" begin="2.9s" repeatCount="indefinite" path="M481.8,185.6 L499.3,175.5"/></circle>
+<circle r="2.2" fill="#f59e0b"><animateMotion dur="3.9s" begin="2.3s" repeatCount="indefinite" path="M521.2,174.7 L480.8,176.5"/></circle>
+<circle r="2.2" fill="#f59e0b"><animateMotion dur="3.9s" begin="0.5s" repeatCount="indefinite" path="M521.2,174.7 L531.7,191.7"/></circle>
+<circle r="2.2" fill="#f59e0b"><animateMotion dur="4.1s" begin="0.8s" repeatCount="indefinite" path="M460.1,191.9 L480.8,176.5"/></circle>
+<circle r="2.2" fill="#f59e0b"><animateMotion dur="3.4s" begin="0.4s" repeatCount="indefinite" path="M460.1,191.9 L440.9,189.1"/></circle>
+<circle r="2.2" fill="#f59e0b"><animateMotion dur="2.5s" begin="1.1s" repeatCount="indefinite" path="M460.1,191.9 L499.3,175.5"/></circle>
+<circle r="2.2" fill="#f59e0b"><animateMotion dur="2.4s" begin="1.2s" repeatCount="indefinite" path="M480.8,176.5 L440.9,189.1"/></circle>
+<circle r="2.2" fill="#f59e0b"><animateMotion dur="4.4s" begin="3.0s" repeatCount="indefinite" path="M480.8,176.5 L499.3,175.5"/></circle>
+<circle r="2.2" fill="#f59e0b"><animateMotion dur="3.4s" begin="0.3s" repeatCount="indefinite" path="M470.7,175.2 L531.7,191.7"/></circle>
+<circle r="2.2" fill="#f59e0b"><animateMotion dur="3.2s" begin="0.2s" repeatCount="indefinite" path="M440.9,189.1 L499.3,175.5"/></circle>
+<circle class="node" cx="481.8" cy="185.6" r="2.9" fill="#f59e0b" style="animation-delay:1.86s"/>
+<circle class="node" cx="521.2" cy="174.7" r="3.7" fill="#f59e0b" style="animation-delay:0.09s"/>
+<circle class="node" cx="460.1" cy="191.9" r="3.5" fill="#f59e0b" style="animation-delay:1.27s"/>
+<circle class="node" cx="480.8" cy="176.5" r="3.3" fill="#f59e0b" style="animation-delay:0.40s"/>
+<circle class="node" cx="470.7" cy="175.2" r="3.3" fill="#f59e0b" style="animation-delay:0.31s"/>
+<circle class="node" cx="440.9" cy="189.1" r="3.9" fill="#f59e0b" style="animation-delay:1.95s"/>
+<circle class="node" cx="531.7" cy="191.7" r="3.8" fill="#f59e0b" style="animation-delay:1.22s"/>
+<circle class="node" cx="499.3" cy="175.5" r="4.4" fill="#f59e0b" style="animation-delay:1.11s"/>
+</g>
+<rect x="0" y="22" width="5" height="40" rx="2.5" fill="#f59e0b"/>
+<text class="t" x="28" y="52">AdaptIQ · MyRank</text>
+<rect x="28" y="66" width="181" height="22" rx="11" fill="#f59e0b"/>
+<text class="p" x="35" y="81.5">Internship · 367 tests</text>
+<text class="d" x="28" y="124">Adaptive JEE/NEET study planner: a 5-agent</text><text class="d" x="28" y="148">Gemini backend with 9 planning rules in code.</text>
+<text class="k" x="28" y="198">Node.js · MySQL · GCP · Gemini</text>
+</svg>

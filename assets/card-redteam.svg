@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 220" width="560" height="220" role="img" aria-label="LLM Red-Teaming Lab: Jailbreak challenge bot for testing Gemini guardrails at an IoT Lab security event.">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0b1020"/><stop offset="1" stop-color="#131d36"/></linearGradient>
+  <radialGradient id="glow" cx="0.85" cy="0.25" r="0.6"><stop offset="0" stop-color="#fb7185" stop-opacity="0.20"/><stop offset="1" stop-color="#fb7185" stop-opacity="0"/></radialGradient>
+  <linearGradient id="scan" x1="0" x2="1"><stop offset="0" stop-color="#fb7185" stop-opacity="0"/><stop offset="0.85" stop-color="#fb7185" stop-opacity="0.28"/><stop offset="1" stop-color="#fb7185" stop-opacity="0"/></linearGradient>
+</defs>
+<style>
+  .t { font: 700 26px 'Segoe UI', -apple-system, Helvetica, Arial, sans-serif; fill: #f8fafc; }
+  .d { font: 500 16px 'Segoe UI', -apple-system, Helvetica, Arial, sans-serif; fill: #b4c2db; }
+  .k { font: 600 13px 'Segoe UI', -apple-system, Helvetica, Arial, sans-serif; fill: #fb7185; letter-spacing: .3px; }
+  .p { font: 600 12.5px 'Segoe UI', -apple-system, Helvetica, Arial, sans-serif; fill: #0b1020; }
+  .node { animation: pulse 3s ease-in-out infinite; transform-box: fill-box; transform-origin: center; }
+  @keyframes pulse { 0%,100% {opacity:.55; transform:scale(1)} 50% {opacity:1; transform:scale(1.6)} }
+  @media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
+</style>
+<rect width="560" height="220" rx="16" fill="url(#bg)" stroke="#22304d"/>
+<rect width="560" height="220" rx="16" fill="url(#glow)"/>
+<g class="net">
+<line x1="460.5" y1="188.5" x2="421.1" y2="205.2" stroke="#fb7185" stroke-opacity="0.22" stroke-width="1"/>
+<line x1="460.5" y1="188.5" x2="522.8" y2="206.0" stroke="#fb7185" stroke-opacity="0.22" stroke-width="1"/>
+<line x1="460.5" y1="188.5" x2="452.9" y2="169.2" stroke="#fb7185" stroke-opacity="0.22" stroke-width="1"/>
+<line x1="460.5" y1="188.5" x2="426.8" y2="168.9" stroke="#fb7185" stroke-opacity="0.22" stroke-width="1"/>
+<line x1="460.5" y1="188.5" x2="423.0" y2="191.8" stroke="#fb7185" stroke-opacity="0.22" stroke-width="1"/>
+<line x1="460.5" y1="188.5" x2="465.7" y2="197.5" stroke="#fb7185" stroke-opacity="0.22" stroke-width="1"/>
+<line x1="460.5" y1="188.5" x2="515.1" y2="176.1" stroke="#fb7185" stroke-opacity="0.22" stroke-width="1"/>
+<line x1="421.1" y1="205.2" x2="452.9" y2="169.2" stroke="#fb7185" stroke-opacity="0.22" stroke-width="1"/>
+<line x1="421.1" y1="205.2" x2="426.8" y2="168.9" stroke="#fb7185" stroke-opacity="0.22" stroke-width="1"/>
+<line x1="421.1" y1="205.2" x2="423.0" y2="191.8" stroke="#fb7185" stroke-opacity="0.22" stroke-width="1"/>
+<line x1="421.1" y1="205.2" x2="465.7" y2="197.5" stroke="#fb7185" stroke-opacity="0.22" stroke-width="1"/>
+<line x1="522.8" y1="206.0" x2="465.7" y2="197.5" stroke="#fb7185" stroke-opacity="0.22" stroke-width="1"/>
+<line x1="522.8" y1="206.0" x2="515.1" y2="176.1" stroke="#fb7185" stroke-opacity="0.22" stroke-width="1"/>
+<line x1="452.9" y1="169.2" x2="426.8" y2="168.9" stroke="#fb7185" stroke-opacity="0.22" stroke-width="1"/>
+<line x1="452.9" y1="169.2" x2="423.0" y2="191.8" stroke="#fb7185" stroke-opacity="0.22" stroke-width="1"/>
+<line x1="452.9" y1="169.2" x2="465.7" y2="197.5" stroke="#fb7185" stroke-opacity="0.22" stroke-width="1"/>
+<line x1="452.9" y1="169.2" x2="515.1" y2="176.1" stroke="#fb7185" stroke-opacity="0.22" stroke-width="1"/>
+<line x1="426.8" y1="168.9" x2="423.0" y2="191.8" stroke="#fb7185" stroke-opacity="0.22" stroke-width="1"/>
+<line x1="426.8" y1="168.9" x2="465.7" y2="197.5" stroke="#fb7185" stroke-opacity="0.22" stroke-width="1"/>
+<line x1="423.0" y1="191.8" x2="465.7" y2="197.5" stroke="#fb7185" stroke-opacity="0.22" stroke-width="1"/>
+<line x1="465.7" y1="197.5" x2="515.1" y2="176.1" stroke="#fb7185" stroke-opacity="0.22" stroke-width="1"/>
+<circle r="2.2" fill="#fb7185"><animateMotion dur="2.8s" begin="1.0s" repeatCount="indefinite" path="M460.5,188.5 L421.1,205.2"/></circle>
+<circle r="2.2" fill="#fb7185"><animateMotion dur="2.5s" begin="1.9s" repeatCount="indefinite" path="M460.5,188.5 L452.9,169.2"/></circle>
+<circle r="2.2" fill="#fb7185"><animateMotion dur="2.9s" begin="0.4s" repeatCount="indefinite" path="M460.5,188.5 L423.0,191.8"/></circle>
+<circle r="2.2" fill="#fb7185"><animateMotion dur="4.5s" begin="1.3s" repeatCount="indefinite" path="M460.5,188.5 L515.1,176.1"/></circle>
+<circle r="2.2" fill="#fb7185"><animateMotion dur="4.7s" begin="2.9s" repeatCount="indefinite" path="M421.1,205.2 L426.8,168.9"/></circle>
+<circle r="2.2" fill="#fb7185"><animateMotion dur="4.0s" begin="0.7s" repeatCount="indefinite" path="M421.1,205.2 L465.7,197.5"/></circle>
+<circle r="2.2" fill="#fb7185"><animateMotion dur="2.8s" begin="0.7s" repeatCount="indefinite" path="M522.8,206.0 L515.1,176.1"/></circle>
+<circle r="2.2" fill="#fb7185"><animateMotion dur="4.2s" begin="1.5s" repeatCount="indefinite" path="M452.9,169.2 L423.0,191.8"/></circle>
+<circle r="2.2" fill="#fb7185"><animateMotion dur="3.1s" begin="0.1s" repeatCount="indefinite" path="M452.9,169.2 L515.1,176.1"/></circle>
+<circle r="2.2" fill="#fb7185"><animateMotion dur="3.2s" begin="1.2s" repeatCount="indefinite" path="M426.8,168.9 L465.7,197.5"/></circle>
+<circle r="2.2" fill="#fb7185"><animateMotion dur="2.6s" begin="0.7s" repeatCount="indefinite" path="M465.7,197.5 L515.1,176.1"/></circle>
+<circle class="node" cx="460.5" cy="188.5" r="3.1" fill="#fb7185" style="animation-delay:1.25s"/>
+<circle class="node" cx="421.1" cy="205.2" r="3.5" fill="#fb7185" style="animation-delay:1.70s"/>
+<circle class="node" cx="522.8" cy="206.0" r="4.2" fill="#fb7185" style="animation-delay:0.88s"/>
+<circle class="node" cx="452.9" cy="169.2" r="2.7" fill="#fb7185" style="animation-delay:0.91s"/>
+<circle class="node" cx="426.8" cy="168.9" r="2.9" fill="#fb7185" style="animation-delay:1.73s"/>
+<circle class="node" cx="423.0" cy="191.8" r="3.5" fill="#fb7185" style="animation-delay:0.96s"/>
+<circle class="node" cx="465.7" cy="197.5" r="2.7" fill="#fb7185" style="animation-delay:2.25s"/>
+<circle class="node" cx="515.1" cy="176.1" r="3.7" fill="#fb7185" style="animation-delay:1.87s"/>
+</g>
+<rect x="0" y="22" width="5" height="40" rx="2.5" fill="#fb7185"/>
+<text class="t" x="28" y="52">LLM Red-Teaming Lab</text>
+<rect x="28" y="66" width="75" height="22" rx="11" fill="#fb7185"/>
+<text class="p" x="35" y="81.5">18 stars</text>
+<text class="d" x="28" y="124">Jailbreak challenge bot for testing Gemini</text><text class="d" x="28" y="148">guardrails at an IoT Lab security event.</text>
+<text class="k" x="28" y="198">React · TypeScript · Gemini</text>
+</svg>
