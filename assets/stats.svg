@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 150" width="1200" height="150" role="img" aria-label="3 survey firms run my insurance software; 94.6% of ID fields pass surveyor review unchanged; 1,570+ automated tests on my flagship platform; 350+ participants at the AI hackathon I organized">
+<defs><linearGradient id="sw" x1="0" x2="1"><stop offset="0" stop-color="#ffffff" stop-opacity="0"/><stop offset="0.5" stop-color="#ffffff" stop-opacity="0.07"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></linearGradient></defs>
+<style>
+  .n { font: 700 40px 'Segoe UI', -apple-system, Helvetica, Arial, sans-serif; fill: #f8fafc; }
+  .l { font: 500 17px 'Segoe UI', -apple-system, Helvetica, Arial, sans-serif; fill: #a9b8d4; }
+  .sweep { animation: sweep 6s ease-in-out infinite; }
+  @keyframes sweep { 0% {transform:translateX(-160px)} 45%,100% {transform:translateX(328px)} }
+  @media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
+</style>
+<g>
+  <clipPath id="c0"><rect x="0" y="6" width="288" height="138" rx="14"/></clipPath>
+  <rect x="0" y="6" width="288" height="138" rx="14" fill="#0f172a" stroke="#22304d"/>
+  <g clip-path="url(#c0)"><rect class="sweep" x="0" y="6" width="120" height="138" fill="url(#sw)" style="animation-delay:0.0s"/></g>
+  <rect x="0" y="6" width="5" height="138" rx="2.5" fill="#38bdf8"/>
+  <text class="n" x="24" y="66">3</text><text class="l" x="24" y="98">survey firms run my</text><text class="l" x="24" y="120">insurance software</text>
+</g><g>
+  <clipPath id="c1"><rect x="304" y="6" width="288" height="138" rx="14"/></clipPath>
+  <rect x="304" y="6" width="288" height="138" rx="14" fill="#0f172a" stroke="#22304d"/>
+  <g clip-path="url(#c1)"><rect class="sweep" x="304" y="6" width="120" height="138" fill="url(#sw)" style="animation-delay:0.6s"/></g>
+  <rect x="304" y="6" width="5" height="138" rx="2.5" fill="#38bdf8"/>
+  <text class="n" x="328" y="66">94.6%</text><text class="l" x="328" y="98">of ID fields pass surveyor</text><text class="l" x="328" y="120">review unchanged</text>
+</g><g>
+  <clipPath id="c2"><rect x="608" y="6" width="288" height="138" rx="14"/></clipPath>
+  <rect x="608" y="6" width="288" height="138" rx="14" fill="#0f172a" stroke="#22304d"/>
+  <g clip-path="url(#c2)"><rect class="sweep" x="608" y="6" width="120" height="138" fill="url(#sw)" style="animation-delay:1.2s"/></g>
+  <rect x="608" y="6" width="5" height="138" rx="2.5" fill="#38bdf8"/>
+  <text class="n" x="632" y="66">1,570+</text><text class="l" x="632" y="98">automated tests on my</text><text class="l" x="632" y="120">flagship platform</text>
+</g><g>
+  <clipPath id="c3"><rect x="912" y="6" width="288" height="138" rx="14"/></clipPath>
+  <rect x="912" y="6" width="288" height="138" rx="14" fill="#0f172a" stroke="#22304d"/>
+  <g clip-path="url(#c3)"><rect class="sweep" x="912" y="6" width="120" height="138" fill="url(#sw)" style="animation-delay:1.8s"/></g>
+  <rect x="912" y="6" width="5" height="138" rx="2.5" fill="#38bdf8"/>
+  <text class="n" x="936" y="66">350+</text><text class="l" x="936" y="98">participants at the AI</text><text class="l" x="936" y="120">hackathon I organized</text>
+</g>
+</svg>
