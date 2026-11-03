@@ -5,7 +5,6 @@
 <p align="center">
   <a href="https://linkedin.com/in/naman-singh419"><img src="https://img.shields.io/badge/LinkedIn-naman--singh419-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <img src="https://img.shields.io/badge/B.Tech_CSE-KIIT_'28-1f2937?style=flat-square" alt="B.Tech CSE, KIIT 2028">
-  <img src="https://img.shields.io/badge/Open_to-internships-16a34a?style=flat-square" alt="Open to internships">
 </p>
 
 I build LLM systems for real users: schema-enforced extraction, multi-agent planners and the evals
@@ -13,7 +12,7 @@ that keep them honest. On the side, I work on real-time 3D perception.
 I'm **AI/ML Lead at KIIT IoT Lab** and **Tech Head at Microsoft Learn Student Ambassadors KIIT**,
 and I was an **AI Development Intern at MyRank** (AdaptIQ).
 
-<p align="center"><img src="assets/stats.svg" width="100%" alt="3 survey firms run my insurance software · 59 FPS with 100K objects in my LiDAR twin's 3D viewer · 5 agents in the Gemini study planner I built at MyRank · 350+ participants at the AI hackathon I organized"></p>
+<p align="center"><img src="assets/stats.svg" width="100%" alt="3 survey firms run my insurance software · 59 FPS in the digital twin I built of the KIIT IoT Lab · 15 GPU nodes in the distributed AI cloud I'm building · 350+ participants at the AI hackathon I organized"></p>
 
 ### Featured work
 
