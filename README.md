@@ -13,7 +13,7 @@ that keep them honest. On the side, I work on real-time 3D perception.
 I'm **AI/ML Lead at KIIT IoT Lab** and **Tech Head at Microsoft Learn Student Ambassadors KIIT**,
 and I was an **AI Development Intern at MyRank** (AdaptIQ).
 
-<p align="center"><img src="assets/stats.svg" width="100%" alt="3 survey firms run my insurance software · 94.6% of ID fields pass surveyor review unchanged · 1,570+ automated tests on my flagship platform · 350+ participants at the AI hackathon I organized"></p>
+<p align="center"><img src="assets/stats.svg" width="100%" alt="3 survey firms run my insurance software · 59 FPS with 100K objects in my LiDAR twin's 3D viewer · 5 agents in the Gemini study planner I built at MyRank · 350+ participants at the AI hackathon I organized"></p>
 
 ### Featured work
 

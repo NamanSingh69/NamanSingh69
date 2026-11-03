@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 150" width="1200" height="150" role="img" aria-label="3 survey firms run my insurance software; 94.6% of ID fields pass surveyor review unchanged; 1,570+ automated tests on my flagship platform; 350+ participants at the AI hackathon I organized">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 150" width="1200" height="150" role="img" aria-label="3 survey firms run my insurance software; 59 FPS with 100K objects in my LiDAR twin's 3D viewer; 5 agents in the Gemini study planner I built at MyRank; 350+ participants at the AI hackathon I organized">
 <defs><linearGradient id="sw" x1="0" x2="1"><stop offset="0" stop-color="#ffffff" stop-opacity="0"/><stop offset="0.5" stop-color="#ffffff" stop-opacity="0.07"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></linearGradient></defs>
 <style>
   .n { font: 700 40px 'Segoe UI', -apple-system, Helvetica, Arial, sans-serif; fill: #f8fafc; }
@@ -18,13 +18,13 @@
   <rect x="304" y="6" width="288" height="138" rx="14" fill="#0f172a" stroke="#22304d"/>
   <g clip-path="url(#c1)"><rect class="sweep" x="304" y="6" width="120" height="138" fill="url(#sw)" style="animation-delay:0.6s"/></g>
   <rect x="304" y="6" width="5" height="138" rx="2.5" fill="#38bdf8"/>
-  <text class="n" x="328" y="66">94.6%</text><text class="l" x="328" y="98">of ID fields pass surveyor</text><text class="l" x="328" y="120">review unchanged</text>
+  <text class="n" x="328" y="66">59 FPS</text><text class="l" x="328" y="98">with 100K objects in my</text><text class="l" x="328" y="120">LiDAR twin's 3D viewer</text>
 </g><g>
   <clipPath id="c2"><rect x="608" y="6" width="288" height="138" rx="14"/></clipPath>
   <rect x="608" y="6" width="288" height="138" rx="14" fill="#0f172a" stroke="#22304d"/>
   <g clip-path="url(#c2)"><rect class="sweep" x="608" y="6" width="120" height="138" fill="url(#sw)" style="animation-delay:1.2s"/></g>
   <rect x="608" y="6" width="5" height="138" rx="2.5" fill="#38bdf8"/>
-  <text class="n" x="632" y="66">1,570+</text><text class="l" x="632" y="98">automated tests on my</text><text class="l" x="632" y="120">flagship platform</text>
+  <text class="n" x="632" y="66">5 agents</text><text class="l" x="632" y="98">in the Gemini study planner</text><text class="l" x="632" y="120">I built at MyRank</text>
 </g><g>
   <clipPath id="c3"><rect x="912" y="6" width="288" height="138" rx="14"/></clipPath>
   <rect x="912" y="6" width="288" height="138" rx="14" fill="#0f172a" stroke="#22304d"/>
