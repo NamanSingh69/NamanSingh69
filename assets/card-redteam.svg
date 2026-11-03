@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 220" width="560" height="220" role="img" aria-label="LLM Red-Teaming Lab: Jailbreak challenge bot for testing Gemini guardrails at an IoT Lab security event.">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 220" width="560" height="220" role="img" aria-label="LLM Red-Teaming Lab: Compare Gemini with and without a jailbreak prompt; built for an IoT Lab security event.">
 <defs>
   <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0b1020"/><stop offset="1" stop-color="#131d36"/></linearGradient>
   <radialGradient id="glow" cx="0.85" cy="0.25" r="0.6"><stop offset="0" stop-color="#fb7185" stop-opacity="0.20"/><stop offset="1" stop-color="#fb7185" stop-opacity="0"/></radialGradient>
@@ -61,6 +61,6 @@
 <text class="t" x="28" y="52">LLM Red-Teaming Lab</text>
 <rect x="28" y="66" width="75" height="22" rx="11" fill="#fb7185"/>
 <text class="p" x="35" y="81.5">18 stars</text>
-<text class="d" x="28" y="124">Jailbreak challenge bot for testing Gemini</text><text class="d" x="28" y="148">guardrails at an IoT Lab security event.</text>
+<text class="d" x="28" y="124">Compare Gemini with and without a jailbreak</text><text class="d" x="28" y="148">prompt; built for an IoT Lab security event.</text>
 <text class="k" x="28" y="198">React · TypeScript · Gemini</text>
 </svg>

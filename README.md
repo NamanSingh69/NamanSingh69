@@ -21,7 +21,7 @@ and I was an **AI Development Intern at MyRank** (AdaptIQ).
   <a href="https://github.com/NamanSingh69/aethertwin-lab"><img src="assets/card-aethertwin.svg" width="49%" alt="AetherTwin: LiDAR/RGB-D digital twin of the KIIT IoT Lab; mapping, tracking, path planning; 350+ tests; 59 FPS with 100K objects"></a>
   <img src="assets/card-ai-cloud.svg" width="49%" alt="Distributed AI Cloud (design phase): zero-API-cost agent cloud on 12 GPU workstations and 3 Jetsons">
   <a href="https://sp.myranktech.com"><img src="assets/card-adaptiq.svg" width="49%" alt="AdaptIQ at MyRank: adaptive JEE/NEET study planner with a 5-agent Gemini backend and 9 planning rules in code; 367 tests"></a>
-  <a href="https://github.com/NamanSingh69/Gemini-Jailbreak"><img src="assets/card-redteam.svg" width="49%" alt="LLM Red-Teaming Lab: jailbreak challenge bot for testing Gemini guardrails; 18 stars"></a>
+  <a href="https://github.com/NamanSingh69/Gemini-Jailbreak"><img src="assets/card-redteam.svg" width="49%" alt="LLM Red-Teaming Lab: compare Gemini with and without a jailbreak prompt, built for an IoT Lab security event; 18 stars"></a>
   <a href="https://github.com/NamanSingh69/Deep-Research"><img src="assets/card-deep-research.svg" width="49%" alt="Deep Research: async research agent with recursive search, cached sources and a streamed cited report"></a>
 </p>
 
