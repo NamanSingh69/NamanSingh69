@@ -60,7 +60,7 @@
 <rect x="0" y="22" width="5" height="40" rx="2.5" fill="#fb7185"/>
 <text class="t" x="28" y="52">LLM Red-Teaming Lab</text>
 <rect x="28" y="66" width="75" height="22" rx="11" fill="#fb7185"/>
-<text class="p" x="35" y="81.5">18 stars</text>
+<text class="p" x="35" y="81.5">20 stars</text>
 <text class="d" x="28" y="124">Compare Gemini with and without a jailbreak</text><text class="d" x="28" y="148">prompt; built for an IoT Lab security event.</text>
 <text class="k" x="28" y="198">React · TypeScript · Gemini</text>
 </svg>

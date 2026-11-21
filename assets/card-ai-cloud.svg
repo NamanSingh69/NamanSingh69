@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 220" width="560" height="220" role="img" aria-label="Distributed AI Cloud: Zero-API-cost agent cloud on 12 GPU workstations and 3 Jetsons, with sandboxed code execution.">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 220" width="560" height="220" role="img" aria-label="Distributed AI Cloud: Zero-API-cost LLM cloud for 5 lab GPU workstations: llama.cpp, a GPU job queue and an agent runtime.">
 <defs>
   <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0b1020"/><stop offset="1" stop-color="#131d36"/></linearGradient>
   <radialGradient id="glow" cx="0.85" cy="0.25" r="0.6"><stop offset="0" stop-color="#a78bfa" stop-opacity="0.20"/><stop offset="1" stop-color="#a78bfa" stop-opacity="0"/></radialGradient>
@@ -56,8 +56,8 @@
 </g>
 <rect x="0" y="22" width="5" height="40" rx="2.5" fill="#a78bfa"/>
 <text class="t" x="28" y="52">Distributed AI Cloud</text>
-<rect x="28" y="66" width="105" height="22" rx="11" fill="#a78bfa"/>
-<text class="p" x="35" y="81.5">Design phase</text>
-<text class="d" x="28" y="124">Zero-API-cost agent cloud on 12 GPU workstations</text><text class="d" x="28" y="148">and 3 Jetsons, with sandboxed code execution.</text>
-<text class="k" x="28" y="198">LiteLLM · Temporal · LangGraph · gVisor</text>
+<rect x="28" y="66" width="120" height="22" rx="11" fill="#a78bfa"/>
+<text class="p" x="35" y="81.5">Pre-deployment</text>
+<text class="d" x="28" y="124">Zero-API-cost LLM cloud for 5 lab GPU workstations:</text><text class="d" x="28" y="148">llama.cpp, a GPU job queue and an agent runtime.</text>
+<text class="k" x="28" y="198">Python · FastAPI · llama.cpp · LiteLLM · Tailscale</text>
 </svg>

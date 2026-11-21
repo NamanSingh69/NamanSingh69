@@ -8,24 +8,24 @@
 </p>
 
 I build LLM systems for real users: schema-enforced extraction, multi-agent planners and the evals
-that keep them honest. On the side, I work on real-time 3D perception.
+that keep them honest. On the side, I work on 3D perception with LiDAR.
 I'm **AI/ML Lead at KIIT IoT Lab** and **Tech Head at Microsoft Learn Student Ambassadors KIIT**,
 and I was an **AI Development Intern at MyRank** (AdaptIQ).
 
-<p align="center"><img src="assets/stats.svg" width="100%" alt="3 survey firms run my insurance software · 59 FPS in the digital twin I built of the KIIT IoT Lab · 15 GPU nodes in the distributed AI cloud I'm building · 350+ participants at the AI hackathon I organized"></p>
+<p align="center"><img src="assets/stats.svg" width="100%" alt="3 survey firms run my insurance software · 15 min live run of my LiDAR digital twin on the real sensor rig · 5 GPU workstations in the lab LLM cloud I'm building · 350+ participants at the AI hackathon I organized"></p>
 
 ### Featured work
 
 <p align="center">
   <img src="assets/card-insurance.svg" width="49%" alt="Motor-Insurance Survey Suite: freelance product line for 3 survey firms with cloud, offline desktop and Android editions (private client work)">
-  <a href="https://github.com/NamanSingh69/aethertwin-lab"><img src="assets/card-aethertwin.svg" width="49%" alt="AetherTwin: LiDAR/RGB-D digital twin of the KIIT IoT Lab; mapping, tracking, path planning; 350+ tests; 59 FPS with 100K objects"></a>
-  <img src="assets/card-ai-cloud.svg" width="49%" alt="Distributed AI Cloud (design phase): zero-API-cost agent cloud on 12 GPU workstations and 3 Jetsons">
+  <a href="https://aethertwin-showcase.vercel.app"><img src="assets/card-aethertwin.svg" width="49%" alt="AetherTwin: LiDAR/RGB-D digital twin of the KIIT IoT Lab; mapping, tracking, path planning; 700+ tests; 15-minute live run on the real rig; live demo"></a>
+  <img src="assets/card-ai-cloud.svg" width="49%" alt="Distributed AI Cloud (pre-deployment): zero-API-cost LLM cloud for 5 lab GPU workstations with llama.cpp, a GPU job queue and an agent runtime">
   <a href="https://sp.myranktech.com"><img src="assets/card-adaptiq.svg" width="49%" alt="AdaptIQ at MyRank: adaptive JEE/NEET study planner with a 5-agent Gemini backend and 9 planning rules in code; 367 tests"></a>
-  <a href="https://github.com/NamanSingh69/Gemini-Jailbreak"><img src="assets/card-redteam.svg" width="49%" alt="LLM Red-Teaming Lab: compare Gemini with and without a jailbreak prompt, built for an IoT Lab security event; 18 stars"></a>
+  <a href="https://github.com/NamanSingh69/Gemini-Jailbreak"><img src="assets/card-redteam.svg" width="49%" alt="LLM Red-Teaming Lab: compare Gemini with and without a jailbreak prompt, built for an IoT Lab security event; 20 stars"></a>
   <a href="https://study-guide-pipeline.vercel.app"><img src="assets/card-study-guides.svg" width="49%" alt="Exam Study-Guide Pipeline: gated agent pipeline that built 12 exam study guides (3,045 pages) with no invented past-paper questions; 77 of 77 tampered inputs blocked; live demo"></a>
 </p>
 
-<sub>More on GitHub: <a href="https://github.com/NamanSingh69/exam-study-guide-pipeline">exam-study-guide-pipeline</a> (code for the study-guide pipeline) · <a href="https://github.com/NamanSingh69/Deep-Research">Deep-Research</a> (async research agent) · <a href="https://github.com/NamanSingh69/Auto-MOM">Auto-MOM</a> (agentic meeting assistant) · <a href="https://github.com/NamanSingh69/Question-Paper-Generator">Question-Paper-Generator</a> · <a href="https://github.com/NamanSingh69/Resume-Scanner">Resume-Scanner</a></sub>
+<sub>More on GitHub: <a href="https://github.com/NamanSingh69/aethertwin-lab">aethertwin-lab</a> (code for AetherTwin) · <a href="https://github.com/NamanSingh69/exam-study-guide-pipeline">exam-study-guide-pipeline</a> (code for the study-guide pipeline) · <a href="https://github.com/NamanSingh69/Deep-Research">Deep-Research</a> (async research agent) · <a href="https://github.com/NamanSingh69/Auto-MOM">Auto-MOM</a> (agentic meeting assistant) · <a href="https://github.com/NamanSingh69/Question-Paper-Generator">Question-Paper-Generator</a> · <a href="https://github.com/NamanSingh69/Resume-Scanner">Resume-Scanner</a></sub>
 
 <!-- Add kiit-cse-notes here once it is public and has its first release. -->
 
