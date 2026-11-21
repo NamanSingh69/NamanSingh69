@@ -22,10 +22,10 @@ and I was an **AI Development Intern at MyRank** (AdaptIQ).
   <img src="assets/card-ai-cloud.svg" width="49%" alt="Distributed AI Cloud (design phase): zero-API-cost agent cloud on 12 GPU workstations and 3 Jetsons">
   <a href="https://sp.myranktech.com"><img src="assets/card-adaptiq.svg" width="49%" alt="AdaptIQ at MyRank: adaptive JEE/NEET study planner with a 5-agent Gemini backend and 9 planning rules in code; 367 tests"></a>
   <a href="https://github.com/NamanSingh69/Gemini-Jailbreak"><img src="assets/card-redteam.svg" width="49%" alt="LLM Red-Teaming Lab: compare Gemini with and without a jailbreak prompt, built for an IoT Lab security event; 18 stars"></a>
-  <a href="https://github.com/NamanSingh69/Deep-Research"><img src="assets/card-deep-research.svg" width="49%" alt="Deep Research: async research agent with recursive search, cached sources and a streamed cited report"></a>
+  <a href="https://study-guide-pipeline.vercel.app"><img src="assets/card-study-guides.svg" width="49%" alt="Exam Study-Guide Pipeline: gated agent pipeline that built 12 exam study guides (3,045 pages) with no invented past-paper questions; 77 of 77 tampered inputs blocked; live demo"></a>
 </p>
 
-<sub>More on GitHub: <a href="https://github.com/NamanSingh69/Auto-MOM">Auto-MOM</a> (agentic meeting assistant) · <a href="https://github.com/NamanSingh69/Question-Paper-Generator">Question-Paper-Generator</a> · <a href="https://github.com/NamanSingh69/Resume-Scanner">Resume-Scanner</a></sub>
+<sub>More on GitHub: <a href="https://github.com/NamanSingh69/exam-study-guide-pipeline">exam-study-guide-pipeline</a> (code for the study-guide pipeline) · <a href="https://github.com/NamanSingh69/Deep-Research">Deep-Research</a> (async research agent) · <a href="https://github.com/NamanSingh69/Auto-MOM">Auto-MOM</a> (agentic meeting assistant) · <a href="https://github.com/NamanSingh69/Question-Paper-Generator">Question-Paper-Generator</a> · <a href="https://github.com/NamanSingh69/Resume-Scanner">Resume-Scanner</a></sub>
 
 <!-- Add kiit-cse-notes here once it is public and has its first release. -->
 
