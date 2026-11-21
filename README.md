@@ -44,5 +44,4 @@ and I was an **AI Development Intern at MyRank** (AdaptIQ).
   </picture>
 </p>
 
-<!-- Add once the Drive file shows v9 (it still shows v8 "5 clients"):
-<p align="center"><a href="https://drive.google.com/file/d/1brLXm0ZGWZtmCdCVkbxeNSSV9qZ244AK/view">Resume (PDF)</a></p> -->
+<p align="center"><a href="https://drive.google.com/file/d/1O5Ctvk0T_xMvVDJKETUs4JTu42Bh-HX_/view">Resume (PDF)</a></p>
